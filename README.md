@@ -1,5 +1,9 @@
 # Calico Enterprise Multi-cluster Management with Federation for Kubernetes on AWS
 
+This content was built for free training workshops. 
+
+If you're looking for general docs for Calico Enterprise, we recommend you start [here](https://docs.tigera.io)
+
 ## Agenda
 
 * Launch an Amazon VPC infrastructure stack using CloudFormation
